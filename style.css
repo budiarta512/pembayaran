@@ -130,6 +130,7 @@ img {
     height: 300px;
     position: relative;
     display: flex;
+    width: 100vh;
     justify-content: center;
     bottom: 0;
 }
