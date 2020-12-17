@@ -49,8 +49,8 @@ img {
 
 .box-pembayaran {
     background-color: white;
-    width: 400px;
-    height: 80px;
+    width: 350px;
+    height: 75px;
     display: flex;
     justify-content: space-between;
     align-items: center;
